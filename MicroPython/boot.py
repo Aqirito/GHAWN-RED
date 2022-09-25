@@ -16,9 +16,9 @@ gc.collect()
 PC_switch = machine.Pin(4, machine.Pin.OUT)
 PC_switch.value(1)
 
-ssid = 'Cahaya mata'
-password = 'M@snie_86'
-mqtt_server = '192.168.0.122'
+ssid = 'Your Wi-Fi name'
+password = 'Your Password'
+mqtt_server = 'your MQTT server IP address'
 #EXAMPLE IP ADDRESS
 #mqtt_server = '192.168.0.122'
 client_id = ubinascii.hexlify(machine.unique_id())
