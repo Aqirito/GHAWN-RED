@@ -6,4 +6,3 @@ Google Home Assistant With Node-RED.. also can control your PC with Voice Comman
 - google home mini
 - umqttsimple.py
 - node-RED
-- wifi network
