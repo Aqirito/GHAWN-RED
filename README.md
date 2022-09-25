@@ -9,6 +9,6 @@ Google Home Assistant With Node-RED.. also can control your PC with Voice Comman
 
 ## [docs](docs/)
 
-### [raspberrypi with MQTT server and node-RED server](docs/Raspberrypi)
+### [raspberrypi with MQTT server and node-RED server](docs/Raspberrypi/Raspberrypi.md)
 
-### [ESP8266 with MQTT client](docs/ESP8266)
+### [ESP8266 with MQTT client](docs/ESP8266/ESP8266.md)
